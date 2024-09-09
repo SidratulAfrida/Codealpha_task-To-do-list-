@@ -16,3 +16,11 @@ This web application is designed to help users easily create, save, and organize
 - **Font Awesome:** Used for task icons and visual elements.
 
 This app simplifies task management by offering users an efficient way to organize and track their daily tasks, helping them prioritize and stay productive.
+ ## Screenshots
+ ![Alt Text](https://github.com/SidratulAfrida/Codealpha_tasks/blob/master/images/1.png)
+ ![Alt Text](https://github.com/SidratulAfrida/Codealpha_tasks/blob/master/images/2.png)
+ ![Alt Text](https://github.com/SidratulAfrida/Codealpha_tasks/blob/master/images/3.png)
+ ![Alt Text](https://github.com/SidratulAfrida/Codealpha_tasks/blob/master/images/4.png)
+ 
+ 
+ 
